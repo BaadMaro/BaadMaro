@@ -19,6 +19,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaadMaro&layout=compact)](https://github.com/BaadMaro)
 
 # Blog posts
+
+Blog : https://baadmaro.github.io/
 <!-- BLOG-POST-LIST:START -->
 - [Bypass captcha using OCR on Dolibarr login page](https://baadmaro.github.io/posts/Bypass-captcha-using-OCR-on-Dolibarr-login-page/)
 - [Android Applications Pentesting, Intentional Exercise from Hackerone platform](https://baadmaro.github.io/posts/Android-Applications-Pentesting,-Intentional-Exercise-from-Hackerone-platform/)
