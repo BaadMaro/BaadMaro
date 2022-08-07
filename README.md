@@ -17,3 +17,8 @@
 ![BaadMaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaadMaro&theme=jolly&show_icons=true)   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaadMaro&layout=compact)](https://github.com/BaadMaro)
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
