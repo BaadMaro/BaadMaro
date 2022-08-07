@@ -12,6 +12,10 @@
 
 ![](https://komarev.com/ghpvc/?username=BaadMaro&color=blueviolet)
 
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
+-->
 <p align="left">
 <a href="https://github.com/BaadMaro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BaadMaro&theme=jolly&show_icons=true"/>
