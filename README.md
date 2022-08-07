@@ -12,13 +12,11 @@
 
 ![](https://komarev.com/ghpvc/?username=BaadMaro&color=blueviolet)
 
-
-
 ![BaadMaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaadMaro&theme=jolly&show_icons=true)   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaadMaro&layout=compact)](https://github.com/BaadMaro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaadMaro&layout=compact&hide=SCSS,HTML)](https://github.com/BaadMaro)
 
-# Latest blog posts
+### 📕 Latest blog posts
 
 Blog : https://baadmaro.github.io/
 <!-- BLOG-POST-LIST:START -->
