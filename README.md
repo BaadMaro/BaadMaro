@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -8,7 +8,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 ![](https://komarev.com/ghpvc/?username=BaadMaro&color=blueviolet)
 
@@ -23,7 +23,7 @@
 </a>
 </p>
 
-### 📕 Latest blog posts
+### :memo: Latest blog posts
 
 Blog : https://baadmaro.github.io/
 <!-- BLOG-POST-LIST:START -->
