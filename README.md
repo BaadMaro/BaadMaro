@@ -20,5 +20,8 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bypass captcha using OCR on Dolibarr login page](/posts/Bypass-captcha-using-OCR-on-Dolibarr-login-page/)
+- [Android Applications Pentesting, Intentional Exercise from Hackerone platform](/posts/Android-Applications-Pentesting,-Intentional-Exercise-from-Hackerone-platform/)
+- [IoT Pentesting with Teltonika RUT9XX](/posts/IoT-Pentesting-with-Teltonika-RUT9XX/)
 <!-- BLOG-POST-LIST:END -->
 
