@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaadMaro&layout=compact)](https://github.com/BaadMaro)
 
-# Blog posts
+# Latest blog posts
 
 Blog : https://baadmaro.github.io/
 <!-- BLOG-POST-LIST:START -->
