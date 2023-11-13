@@ -27,6 +27,7 @@
 
 Blog : https://baadmaro.github.io/
 <!-- BLOG-POST-LIST:START -->
+- [Discourse CVE-2023-47119 - Building a CVE POC from commits changes](https://baadmaro.github.io/posts/Discourse-CVE-2023-47119-Building-a-CVE-POC-from-commits-changes/)
 - [Bypass captcha using OCR on Dolibarr login page](https://baadmaro.github.io/posts/Bypass-captcha-using-OCR-on-Dolibarr-login-page/)
 - [Android Applications Pentesting, Intentional Exercise from Hackerone platform](https://baadmaro.github.io/posts/Android-Applications-Pentesting,-Intentional-Exercise-from-Hackerone-platform/)
 - [IoT Pentesting with Teltonika RUT9XX](https://baadmaro.github.io/posts/IoT-Pentesting-with-Teltonika-RUT9XX/)
