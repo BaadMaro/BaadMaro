@@ -27,6 +27,7 @@
 
 Blog : https://baadmaro.github.io/
 <!-- BLOG-POST-LIST:START -->
+- [DGSSI CTF PRO 2024 - Italy Writeup](https://baadmaro.github.io/posts/DGSSI-CTF-PRO-Italy-Writeup/)
 - [Discourse CVE-2023-47119 - Building a CVE POC from commits changes](https://baadmaro.github.io/posts/Discourse-CVE-2023-47119-Building-a-CVE-POC-from-commits-changes/)
 - [Bypass captcha using OCR on Dolibarr login page](https://baadmaro.github.io/posts/Bypass-captcha-using-OCR-on-Dolibarr-login-page/)
 - [Android Applications Pentesting, Intentional Exercise from Hackerone platform](https://baadmaro.github.io/posts/Android-Applications-Pentesting,-Intentional-Exercise-from-Hackerone-platform/)
