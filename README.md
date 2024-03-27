@@ -23,6 +23,10 @@
 </a>
 </p>
 
+### :moyai: Bug bounty
+
+- HackerOne [https://hackerone.com/baadmaro](https://hackerone.com/baadmaro)
+
 ### :memo: Latest blog posts
 
 Blog : https://baadmaro.github.io/
