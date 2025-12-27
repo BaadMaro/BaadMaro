@@ -18,8 +18,8 @@
 -->
 <p align="left">
 <a href="https://github.com/BaadMaro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BaadMaro&theme=jolly&show_icons=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaadMaro&layout=compact&hide=SCSS,HTML,RUST,ruby&langs_count=8"/>
+  <img height="180em" src="./profile/stats.svg"/>
+  <img height="180em" src="./profile/top-langs.svg"/>
 </a>
 </p>
 
