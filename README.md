@@ -11,18 +11,18 @@
 -->
 
 ![](https://komarev.com/ghpvc/?username=BaadMaro&color=blueviolet)
-
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
 -->
+<!--
 <p align="left">
 <a href="https://github.com/BaadMaro">
   <img height="180em" src="./profile/stats.svg"/>
   <img height="180em" src="./profile/top-langs.svg"/>
 </a>
 </p>
-
+-->
 ### :moyai: Bug bounty
 
 - HackerOne [https://hackerone.com/baadmaro](https://hackerone.com/baadmaro)
